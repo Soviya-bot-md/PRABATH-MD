@@ -12,5 +12,4 @@ module.exports = {
     SESSION_ID:  process.env.SESSION_ID,    
     BOT_NUMBER:  process.env.BOT_NUMBER,
     GITHUB_USERNAME: username,
-    GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN,
 };

@@ -17,10 +17,6 @@
     },  
 
 
-    "GITHUB_AUTH_TOKEN": {
-      "description": "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",
-      "required": false
-    }   
 },
 
      "buildpacks": [
